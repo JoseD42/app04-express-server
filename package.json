@@ -1,0 +1,15 @@
+{
+  "name": "app04-express-server",
+  "version": "0.0.1",
+  "description": "Server de prueba hecho por mi xd",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José Daniel Becerra",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
